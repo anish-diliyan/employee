@@ -1,0 +1,2 @@
+# An example controller showing application is running
+GET     /                           controllers.HeartBeatController.heartBeat()
